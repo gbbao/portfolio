@@ -1,4 +1,4 @@
-# Portfólio de [Seu Nome]
+# Portfólio de Guilherme Báo
 
 Este é o meu portfólio online, onde você pode ver os meus projetos e habilidades como desenvolvedor web.
 
